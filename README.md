@@ -6,5 +6,3 @@
 ### Usage:
 1. DLL goes inside ``Mods/``
 
-![image](https://i.imgur.com/j1l2suE.png)
-
